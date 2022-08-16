@@ -2,6 +2,6 @@
 
 [www.nabil.kadjouh.com](https://nabilkadjouh-d74b7.web.app/)
 
-![This is an image](https://github.com/Bill29200/Mon-site/images/monsite.jpg)
+![This is an image](https://github.com/Bill29200/Mon-site/blob/main/images/monsite.png)
 
 ## Bill
